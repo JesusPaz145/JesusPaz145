@@ -1,19 +1,19 @@
 <h1 align="center">Hola 👋, Me llamo Jesus Paz</h1>
-<h3 align="center">soy un frontend apasionado</h3>
+<h3 align="center">soy un frontend apasionado, dedicado a perfeccionar sus conocimientos en los lenguajes aprendidos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesuspaz145&label=Profile%20views&color=0e75b6&style=flat" alt="jesuspaz145" /> </p>
 
-- 🔭 I’m currently working on **Tecnoven**
+- 🔭 Estoy trabajando actualmente en **Tecnoven**
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 Estoy estudiando **React, JavaScript**
 
-- 👯 I’m looking to collaborate on **sistema administrativo**
+- 👯 Estoy trabajando en la construccion de un **Sistema Administrativo**
 
-- 💬 Ask me about **Html, CSS, PHP**
+- 💬 Preguntame sobre **Html, CSS, PHP**
 
-- 📫 How to reach me **jesuspaz145@gmail.com**
+- 📫 Contactarme:  **jesuspaz145@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jesus-paz-88a64014a/](https://www.linkedin.com/in/jesus-paz-88a64014a/)
+- 📄 Sobre mis experiencias... [https://www.linkedin.com/in/jesus-paz-88a64014a/](https://www.linkedin.com/in/jesus-paz-88a64014a/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
